@@ -1,0 +1,20 @@
+{
+  "name": "logintask",
+  "version": "1.0.0",
+  "description": "Software engineering Junior teaching assitant ",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "loay elzobaidy",
+  "license": "ISC",
+  "dependencies": {
+    "history": "^1.17.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "styled-components": "^3.1.4",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
